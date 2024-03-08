@@ -1,2 +1,1 @@
-# react-wordle
-placeholder redirect
+[go here for the Randle](https://storyyeller.github.io/randle/)
