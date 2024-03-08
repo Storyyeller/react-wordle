@@ -1,0 +1,2 @@
+# react-wordle
+placeholder redirect
